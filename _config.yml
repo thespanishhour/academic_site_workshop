@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: The Spanish Hour
+locale: 
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: 
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: 
+  email: 
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: 
   linkedin: #username
-  github: laderast
+  github: 
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
